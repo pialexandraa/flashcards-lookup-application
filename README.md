@@ -1,8 +1,10 @@
-Title: **Flashcards learning application**
+# Flashcards lookup application
 
 Technical implementation: **Under the hood, the app features mainly a HashMap demonstrative implementation, with a linkedlist based on the extensive class of Node.**
 
-Description: The game/application is designed to be accessed from within the command line (at main.py); it is supposed to touch on the following points:
+## Description
+
+The game/application is designed to be accessed from within the command line (at main.py); it is supposed to touch on the following points:
 
 1. Have a clean implementation where each component is smoothly integrated into the ensemble.
 2. The actual data definition that the hashmap and application work with/operate on is a dictionary; alternatively, the data could be served from a lightweight database.
